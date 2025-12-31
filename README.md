@@ -71,3 +71,5 @@ I’m **Muhammad Hassan**, a **Senior Full-Stack & Mobile Developer** with real-
 
 <!-- 🔥 FOOTER ANIMATION -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=160&section=footer"/>
+
+![snake animation](https://raw.githubusercontent.com/Muhammad-Hassan-student/Muhammad-Hassan-student/output/github-contribution-grid-snake.svg)
