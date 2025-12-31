@@ -1,12 +1,50 @@
-<!-- 🌟 ULTRA PREMIUM GENIUS BANNER WITH ADVANCED ANIMATIONS -->
+<!-- 🌟 ULTRA MODERN PROFILE HEADER WITH 3D EFFECT -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=300&section=header&text=Muhammad%20Hassan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Hybrid%20Software%20Engineer&descSize=20&descAlignY=55"/>
+
+![Modern Banner](https://github.com/Muhammad-Hassan-student/Muhammad-Hassan-student/blob/main/banner.gif?raw=true)
+
+<!-- If above doesn't work, use this dynamic banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=👨‍💻%20Muhammad%20Hassan&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Hybrid%20Software%20Engineer&descSize=24&descAlignY=65&stroke=00d4ff&strokeWidth=5"/>
+
+<!-- 🚀 GLOWING ANIMATED TITLE -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=60&lines=Full-Stack+Developer;React+Native+Expert;AI%2FML+Engineer;TypeScript+Wizard;Cloud+Architect;Problem+Solver;Innovation+Creator" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- 🌈 COLORFUL ANIMATED DIVIDER -->
+<img src="https://i.imgur.com/mNbz7w5.gif" width="100%" height="5px"/>
+
 </div>
 
-<!-- 🧠 AI TYPING + GENIUS EFFECT WITH PULSE ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&center=true&vCenter=true&width=850&lines=Hybrid+Software+Engineer;Full-Stack+%7C+Mobile+%7C+AI+Developer;MERN+%7C+Next.js+%7C+TypeScript;React+Native+%7C+Flutter+Expert;Artificial+Intelligence+%7C+Data+Science;Building+Systems+That+Scale+Globally;Problem+Solver+%7C+System+Thinker+%7C+Innovator&color=00d4ff&background=00000000&vCenter=true&height=50&weight=600" />
-</p>
+<br/>
+
+## 🎯 **About Me**
+
+<div align="center">
+  
+```typescript
+const muhammadHassan: Developer = {
+  pronouns: "He" | "Him",
+  code: ["TypeScript", "JavaScript", "Python", "Dart", "Java"],
+  askMeAbout: ["web dev", "mobile apps", "ai/ml", "system design"],
+  technologies: {
+    frontend: {
+      js: ["React", "Next.js", "Vue"],
+      css: ["Tailwind", "Material-UI", "Styled Components"]
+    },
+    mobile: ["React Native", "Flutter", "Android Native"],
+    backend: ["Node.js", "Express", "NestJS", "FastAPI"],
+    database: ["MongoDB", "PostgreSQL", "Firebase", "Redis"],
+    devOps: ["Docker", "AWS", "GitHub Actions", "Nginx"],
+    ai_ml: ["TensorFlow", "PyTorch", "OpenCV", "Pandas"],
+    tools: ["Git", "VS Code", "Figma", "Postman", "Jira"]
+  },
+  architecture: ["Microservices", "Serverless", "MVC", "Clean Architecture"],
+  currentFocus: "Building Scalable FinTech Solutions",
+  funFact: "I turn coffee into code ☕ → 💻"
+};</p>
 
 <!-- ⚡ ANIMATED DIVIDER WITH GLOW EFFECT -->
 <div align="center">
