@@ -19,7 +19,7 @@ I’m **Muhammad Hassan**, a **Senior Full-Stack & Mobile Developer** with real-
 
 ---
 
-## ⚡ Tech Stack (Animated Icons)
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,redux,flutter,firebase,git&perline=5" />
@@ -27,10 +27,53 @@ I’m **Muhammad Hassan**, a **Senior Full-Stack & Mobile Developer** with real-
 
 ---
 
-## 📊 GitHub Performance (Live & Animated)
+## 📊 GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-student&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Hassan-student&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Hassan-student&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hassan-student&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🔥 Featured Expertise
+
+- 🧠 Clean Architecture & Scalable Code  
+- 💳 Stripe / PayPal / Razorpay Integrations  
+- 💬 Real-Time Apps (Socket.IO)  
+- 🛠 Admin Panels & Dashboards  
+- ⚙️ REST APIs & Secure Auth (JWT, Auth0, Firebase)
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:muhammadhassanakram87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Professional-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/Muhammad-Hassan-student">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<!-- 🔥 FOOTER ANIMATION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=160&section=footer"/>
+
+<!-- 🐍 SNAKE ANIMATION -->
+![snake animation](https://raw.githubusercontent.com/Muhammad-Hassan-student/Muhammad-Hassan-student/output/github-contribution-grid-snake.svg)  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-student&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Hassan-student&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
