@@ -53,8 +53,9 @@ I’m **Muhammad Hassan**, a **Hybrid Software Engineer** specializing in the in
 ---
 
 ## 🐍 System Activity Logic
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-Hassan-student/Muhammad-Hassan-student/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Muhammad-Hassan-student/Muhammad-Hassan-student/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
